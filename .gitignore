@@ -1,0 +1,4 @@
+# python virtual environments
+osvenv/
+venv/
+.env/
